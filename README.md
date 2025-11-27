@@ -49,3 +49,6 @@ VERCEL MAIN
 VERCEL SEARCH
 <img width="959" height="559" alt="vercel_search" src="https://github.com/user-attachments/assets/251cbb77-46c2-48ee-b4f0-3157cf94e5fe" />
 
+VERCEL ERROR
+<img width="958" height="561" alt="vercel_fail" src="https://github.com/user-attachments/assets/a823f571-7461-4144-86da-95be9e68d294" />
+
