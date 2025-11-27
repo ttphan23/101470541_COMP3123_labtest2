@@ -41,6 +41,9 @@ https://api.openweathermap.org/data/2.5/weather?q=toronto&appid=6737a80d726eb54c
 
 The API key is stored securely using:  
 - `.env` file locally  
-- Environment variables on Vercel (`REACT_APP_OPENWEATHER_KEY`)  
+- Environment variables on Vercel (`REACT_APP_OPENWEATHER_KEY`)
+  
+<img width="959" height="558" alt="vercel_main" src="https://github.com/user-attachments/assets/d2e36c76-34f5-4435-911c-b2336520b417" />
 
+<img width="959" height="559" alt="vercel_search" src="https://github.com/user-attachments/assets/251cbb77-46c2-48ee-b4f0-3157cf94e5fe" />
 
